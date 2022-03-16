@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Fallabella Suit]" guice-stage="DEVELOPMENT">
+  <test name="Register Test(failed)">
+    <classes>
+      <class name="com.falabella.testcases.RegisterTest">
+        <methods>
+          <include name="registerTest"/>
+        </methods>
+      </class> <!-- com.falabella.testcases.RegisterTest -->
+    </classes>
+  </test> <!-- Register Test(failed) -->
+  <test name="ShoppingCar Test(failed)">
+    <classes>
+      <class name="com.falabella.testcases.ShoppingCarTest">
+        <methods>
+          <include name="shoppingCarTest"/>
+        </methods>
+      </class> <!-- com.falabella.testcases.ShoppingCarTest -->
+    </classes>
+  </test> <!-- ShoppingCar Test(failed) -->
+</suite> <!-- Failed suite [Fallabella Suit] -->
