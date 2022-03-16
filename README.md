@@ -1,6 +1,6 @@
 # Falabella
 
-Este proyecto es la automatización del portal https://www.falabella.com esta construido con selenium utilizando, para poder ejecutarlo existe 3 formas:
+Este proyecto es la automatización del portal https://www.falabella.com esta construido con selenium, para poder ejecutarlo existe 3 formas:
 
 - Ir a src/tes/java/com/falabella/rough y ejecutar cada uno de los archivos que existen como “java application” (LoginTest.java, RegisterTest.java,  ShoppingCarTest.java).
 
